@@ -1,0 +1,14 @@
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\bin\Debug\net7.0\DIO.Calculadora.exe
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\bin\Debug\net7.0\DIO.Calculadora.deps.json
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\bin\Debug\net7.0\DIO.Calculadora.runtimeconfig.json
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\bin\Debug\net7.0\DIO.Calculadora.dll
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\bin\Debug\net7.0\DIO.Calculadora.pdb
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\obj\Debug\net7.0\DIO.Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\obj\Debug\net7.0\DIO.Calculadora.AssemblyInfoInputs.cache
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\obj\Debug\net7.0\DIO.Calculadora.AssemblyInfo.cs
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\obj\Debug\net7.0\DIO.Calculadora.csproj.CoreCompileInputs.cache
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\obj\Debug\net7.0\DIO.Calculadora.dll
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\obj\Debug\net7.0\refint\DIO.Calculadora.dll
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\obj\Debug\net7.0\DIO.Calculadora.pdb
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\obj\Debug\net7.0\DIO.Calculadora.genruntimeconfig.cache
+E:\Dotnet\dio\DIO.Calculadora\DIO.Calculadora\obj\Debug\net7.0\ref\DIO.Calculadora.dll
